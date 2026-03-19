@@ -1,4 +1,45 @@
-* {
+h1 {
+    text-align: center;
     box-sizing: border-box;
 }
+header {
+        color: rgb(97, 212, 251);
+        border: 60px;
+        border-style: groove;
+        background-color: rgb(110, 110, 241);
+
+}
+
+body {
+      background-color: blue;
+}
+
+img {
+    margin: 200px;
+     content: url(/assests/Sunset2.jpg);
+     width: 150px;
+     height: 100px;
+     border: 10px;
+     border-top-style: dotted;
+     border-bottom-style: dotted;
+     border-color: rgb(99, 200, 99);
+     border-radius: 10px;
+     padding: 10px;
+     box-sizing: border-box;
+
+
+
+}
+
+p  {
+    text-align: center;
+    color: rgb(98, 199, 233);
+}
+footer {
+        background-color: black;
+}
+
+
+
+
 
